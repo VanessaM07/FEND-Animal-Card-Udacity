@@ -1,53 +1,61 @@
-#body {
-	font-family: Times New Roman, Times, Serif;
-	font-size: 14px;
-	}
+.body {
+  font-family: Times New Roman, Times, Serif;
+  font-size: 14px;
+}
 
-	.animal_card {
-		border: 2px solid orange;
-		box-shadow:6px 6px 5px #ffccff;
-		border-radius: 7px;
-		padding: 10px;
-		margin-top: 10px auto;
-		width: 324px;
-		background-color: white;
-		}  h3 {
-			text-align: center;
-			font-style: normal;
-			font-size: 20px;
-			color: #4d2600;
-			border: 2px solid orange;
-			border-radius: 7px;
-			padding: 10px;
-			margin: 10px 10px 10px 10px;
-			} img {
-			display: block;
-			width: 300px;
-			height: 200px;
-			border: 2px solid orange;
-			border-radius: 7px;
-			margin: 10px auto;
-			} 
-		
-	.interestingfact {
-		text-align: center;
-		padding: 10px;
-		} 
-	
-	.information {
-		text-align: center-right;
-		width: 300px;
-		border: 2px solid orange;
-		border-radius: 7px;
-		margin: 10px  auto;
-		} ul {
-			list-style: none;
-			} span {
-			color: orange;
-			font-weight: bold;
-			}
-			
-	.description {
-		text-align: justify;
-		padding: 15px;
-		}
+.animal_card {
+  border: 2px solid orange;
+  box-shadow: 6px 6px 5px #ffccff;
+  border-radius: 7px;
+  padding: 10px;
+  margin-top: 10px auto;
+  width: 324px;
+  background-color: white;
+}
+
+h3 {
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  color: #4d2600;
+  border: 2px solid orange;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+img {
+  display: block;
+  width: 300px;
+  height: 200px;
+  border: 2px solid orange;
+  border-radius: 7px;
+  margin: 10px auto;
+}
+
+.interestingfact {
+  text-align: center;
+  padding: 10px;
+}
+
+.information {
+  text-align: center-right;
+  width: 300px;
+  border: 2px solid orange;
+  border-radius: 7px;
+  margin: 10px  auto;
+}
+
+ul {
+  list-style: none;
+}
+
+span {
+  color: orange;
+  font-weight: bold;
+}
+
+.description {
+  text-align: justify;
+  padding: 15px;
+}
